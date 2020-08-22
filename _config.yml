@@ -105,7 +105,7 @@ author:
   name             : "高明亮/Melon Gao"
   avatar           : "140.png"
   bio              : "教学科研/Teacher & Researcher"
-  location         : "北京/Beijing"
+  location         : "中国，北京/Beijing, China"
   employer         : "首都师范大学/Capital Normal University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -131,11 +131,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/she19890320"
   vine             :
   weibo            : "1883943805"
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC6klvJvMuy665zMR2mQgGBg"
   wikipedia        :
 
 
@@ -203,9 +203,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -249,16 +246,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      comments: true  
   # _talks
   - scope:
       path: ""
