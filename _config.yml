@@ -14,8 +14,8 @@ description              : "一枚青椒，从事InSAR技术应用7年"
 url                      : https://sugeradi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sugeradi/sugeradi.github.io"
-teaser                   : "140.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "mstile-70x70.png"
+teaser                   : "Tracking_every_move.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : "circled-m-48.png"
 search                   : true
 masthead_title           : "Melon Gao's Group"
 breadcrumbs              : false # true, false (default)
