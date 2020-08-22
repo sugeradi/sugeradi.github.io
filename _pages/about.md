@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "高明亮的页面(Melon's Home)"
+title: "欢迎访问~(Melon's Home)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
