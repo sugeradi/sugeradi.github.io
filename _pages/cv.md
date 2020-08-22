@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<h1 style="text-align:center">Melon Gao</h1>
+<center>
+
+Capital Normal University | [http://sugeradi.github.io](https://sugeradi.github.io) | Beijing, China
+</center>
+
 教育经历 Education
 ======
 * B.S. in GIS, Zhengzhou University, Zhengzhou, Henan Province, China, 2011
