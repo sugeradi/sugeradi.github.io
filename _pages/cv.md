@@ -11,7 +11,8 @@ redirect_from:
 
 <h1 style="text-align:center">Melon Gao</h1>
 <center>
-Capital Normal University|[http://sugeradi.github.io](https://sugeradi.github.io)|Beijing, China
+  
+Capital Normal University| [http://sugeradi.github.io](https://sugeradi.github.io) |Beijing, China
 </center>
 
 教育经历 Education
