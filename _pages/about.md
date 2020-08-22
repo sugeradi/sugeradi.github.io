@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<h1 style="text-align:center">Melon Gao</h1>
 <center>
-# Melon Gao
+
 Capital Normal University | [http://sugeradi.github.io](https://sugeradi.github.io) | Beijing, China
 </center>
 
