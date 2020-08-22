@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<center>### Melon Gao</center>
+<center>Melon Gao</center>
+=====
 [Download paper here](http://sugeradi.github.io/files/2019.6.pdf)
 
 
