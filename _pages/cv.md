@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h1 style="text-align:center">高明亮(Melon Gao)</h1>
-<h5 style="text-align:center;color:grey">Capital Normal University|<a href="http://sugeradi.github.io">http://sugeradi.github.io</a>|Beijing, China</h5>
+<h5 style="text-align:center;color:grey">Capital Normal University|<a href="http://sugeradi.github.io">http://sugeradi.github.io</a>|b312@cnu.edu.cn</h5>
 
 ### 教育经历 Education
 ---
