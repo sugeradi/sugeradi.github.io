@@ -59,7 +59,7 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-### 教学内容 Teaching
+### 学术报告 Teaching
 -----
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
