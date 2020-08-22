@@ -15,7 +15,7 @@ url                      : https://sugeradi.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sugeradi/sugeradi.github.io"
 teaser                   : "Tracking_every_move.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "circled-m-48.png"
+logo                     : ""
 masthead_title           : "Melon Gao's Group"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "circled-m-48.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
