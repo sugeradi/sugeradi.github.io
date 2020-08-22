@@ -16,10 +16,9 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sugeradi/sugeradi.github.io"
 teaser                   : "Tracking_every_move.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : "circled-m-48.png"
-search                   : true
 masthead_title           : "Melon Gao's Group"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "enable" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -33,24 +32,44 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
-  commitMessage          : "New comment by {fields.name}"
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  staticman:
+    allowedFields          : ['name', 'email', 'url', 'message']
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    commitMessage          : "New comment by {fields.name}"
+    filename               : comment-{@timestamp}
+    format                 : "yml"
+    moderation             : true
+    path                   : "_data/comments/{options.slug}"
+    requiredFields         : ['name', 'email', 'message']
+    transforms:
+      email                : "md5"
+    generatedFields:
+      date:
+        type               : "date"
+        options:
+          format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+
+
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 
 # SEO Related
 google_site_verification :
