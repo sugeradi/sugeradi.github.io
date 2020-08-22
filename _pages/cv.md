@@ -16,11 +16,11 @@ redirect_from:
 
 工作经历 Employment
 ======
-* Dec. 2019: Research Assistant & Instructorship
+* Dec. 2019-: Research Assistant & Instructorship
   * Capital Normal University
   * Duties included: Evolution mechanism on regional land subsidence
 
-* Jul. 2017: Postdoc Researcher
+* Jul. 2017-Nov. 2019: Postdoc Researcher
   * Capital Normal University
   * Duties included: Land Subsidence monitor via MTInSAR
   * Supervisor: Professor Huili Gong
