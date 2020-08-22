@@ -16,6 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sugeradi/sugeradi.github.io"
 teaser                   : "/images/500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : "/images/mstile-70x70.png"
+search                   : true
 masthead_title           : "Melon Gao's Group"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -23,7 +24,7 @@ future                   : true
 read_more                : "enable" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -34,8 +35,8 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "新评论。"
+  branch                 : "master" # "master", "gh-pages"
+  commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -198,6 +199,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true
