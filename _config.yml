@@ -99,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sugeradi"
+  github           : "sugeradi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%98%8E%E4%BA%AE-%E9%AB%98-b36231104/"
+  linkedin         : "%E6%98%8E%E4%BA%AE-%E9%AB%98-b36231104/"
   orcid            : "https://orcid.org/0000-0002-8871-6999"
   pinterest        :
   soundcloud       :
@@ -114,7 +114,7 @@ author:
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "https://weibo.com/u/1883943805"
+  weibo            : "1883943805"
   xing             :
   youtube          :
   wikipedia        :
