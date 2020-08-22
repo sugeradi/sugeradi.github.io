@@ -19,7 +19,7 @@ redirect_from:
 
 ### 工作经历 Employment
 ---
-* 2019.11至今，讲师(Dec. 2019-: Research Assistant & Instructorship)
+* 2019.11至今，讲师(Dec. 2019-, Research Assistant & Instructorship)
   * 首都师范大学(Capital Normal University)
   * 水资源安全北京实验室(Beijing Laboratory of Water Resources Security)
   * 城市环境过程与数字模拟国家重点实验室培育基地(Base of the State Key Laboratory of Urban Environmental Process and Digital Modeling)
@@ -27,7 +27,7 @@ redirect_from:
   * 三维信息获取与应用教育部重点实验室(Key Laboratory of 3D Information Acquisition and Application, MOE)
   * 研究方向(Duties included)：InSAR技术应用，区域地面沉降演化机理(Evolution mechanism on regional land subsidence)
 
-* Jul. 2017-Nov. 2019: Postdoc Researcher
+* 2017.7-2019.11，博士后研究人员(Jul. 2017-Nov. 2019, Postdoctoral Researcher)
   * 首都师范大学，北京成像理论与技术高精尖创新中心(Capital Normal University, Beijing Advanced Innovation Center for Imaging Theory and Technology)
   * 研究方向(Duties included)：区域地面沉降演化研究(Land Subsidence monitor via MTInSAR)
   * 合作导师(Supervisor):宫辉力 教授(Professor Huili Gong)
