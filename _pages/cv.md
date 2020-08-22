@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h1 style="text-align:center">Melon Gao</h1>
-<center>
-  
-Capital Normal University| [http://sugeradi.github.io](https://sugeradi.github.io) |Beijing, China
-</center>
+<h5 style="text-align:center">Capital Normal University| [http://sugeradi.github.io](https://sugeradi.github.io) |Beijing, China</h1>
 
 ### 教育经历 Education
 ---
