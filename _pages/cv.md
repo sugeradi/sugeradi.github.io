@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,34 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GIS, Zhengzhou University, Zhengzhou, Henan Province, China, 2011
+* Ph.D in GIS, Capital Normal University, Beijing, China, 2017
 
-Work experience
+工作经历 Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2019: Research Assistant & Instructorship
+  * Capital Normal University
+  * Duties included: Evolution mechanism on regional land subsidence
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul. 2017: Postdoc Researcher
+  * Capital Normal University
+  * Duties included: Land Subsidence monitor via MTInSAR
+  * Supervisor: Professor Huili Gong
   
-Skills
+技术特长 Skills
 ======
-* Skill 1
-* Skill 2
+* SAR Interferometry:Theory, technology and application
+  * MTInSAR processing
+  * Deformation monitoring
+  * Land subsidence
+* Remote Sensing：Theory, technology and application
+  * Vegetation biomass inversion
+  * Topographic correction
+  * Image processing
+* GIS Analysis
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
-Publications
+成果发表 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -48,12 +52,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+教学内容 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
