@@ -39,14 +39,10 @@ zh: &DEFAULT_ZH
   comment_success_msg        : "感谢您的评论！评论内容审核后显示在本页。"
   comment_error_msg          : "抱歉，您的提交遇到错误。请确保所有必需的字段都已完成，然后再试一次。"
   loading_label              : "载入中..."
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+zh-SG:
+  <<: *DEFAULT_ZH
+zh-CHS:
+  <<: *DEFAULT_ZH
   
 # English (default)
 # -----------------
