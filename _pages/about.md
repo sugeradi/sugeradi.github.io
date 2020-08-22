@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<center>Melon Gao</center>
-=====
+### Melon Gao
+### <center>Melon Gao</center>
 < center >[Download paper here](http://sugeradi.github.io/files/2019.6.pdf)|Capital Normal University|Beijing China< /center >
 
 
