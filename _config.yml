@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "高明亮/地面沉降研究小组"
 title_separator          : "-"
 name                     : &name "Melon Gao"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "高明亮/Melon Gao"
   avatar           : "profile.png"
-  bio              : "教师、科研工作者/Teacher & Researcher"
+  bio              : "教学科研/Teacher & Researcher"
   location         : "北京/Beijing"
   employer         : "首都师范大学/Capital Normal University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
