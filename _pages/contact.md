@@ -15,6 +15,8 @@ Contact information is below, including email and various web services.  This i
 * Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
 * UC-Berkeley: [Berkeley Institute for Data Science](https://bids.berkeley.edu/people/r-stuart-geiger), [School of Information](http://www.ischool.berkeley.edu/people/students/rstuartgeiger)
 
+![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+
 ## 17 Ways to Be a Raster Master
 #### The beautiful thing about rasters is that they’re useful for both visualizing and mathematical analysis.
 
@@ -23,7 +25,7 @@ The beautiful thing about rasters is that they’re useful for both visualizing 
 Here are a bunch of ways you can work with this data type—and I hope the list inspires you to think of even more possibilities. You’ll see how to restructure rasters to get exactly what you need, exerting specific control over cells, bands, palettes, even the way they’re geocoded. You’ll also see many ways to integrate them, resulting in datasets that are much more rich and illustrative. If you hang around long enough, you might even learn how to use math and expression evaluation to impress your friends.
 
 1. Convert between data formats
-This GeoTIFF has been converted from a layered DWG, creating an image of the vector that better meets structural requirements.
+![This GeoTIFF has been converted from a layered DWG, creating an image of the vector that better meets structural requirements.](http://cdn.safe.com/wp-content/uploads/2014/07/1-GeoTIFF-raster-300x225.png "This GeoTIFF has been converted from a layered DWG, creating an image of the vector that better meets structural requirements.")
 This GeoTIFF has been converted from a layered DWG, creating an image of the vector that better meets structural requirements.
 
 There are a lot of raster formats. I don’t want to embarrass myself by guessing how many (I’ve always been terrible at those Jelly Bean Jar guessing games), but I can tell you that FME works with more than 60 of them. The most popular ones in our usage statistics are GeoTIFF/TIFF and ECW.
@@ -31,7 +33,8 @@ There are a lot of raster formats. I don’t want to embarrass myself by guessin
 To get all the benefits of data integration, it’s often worth converting to another raster format, or translating between raster and vector, or combining rasters with point clouds, databases, CAD, GIS, or any other data type. In a world where data is liquid, it’s suicide to keep information locked in a single format.
 
 2. Change the dimensions
-This is a visual representation of a 25x25 DEM that has been downsampled to 10x10.
+
+![This is a visual representation of a 25x25 DEM that has been downsampled to 10x10.](http://cdn.safe.com/wp-content/uploads/2014/07/2-resample-dem-300x160.png "This is a visual representation of a 25×25 DEM that has been downsampled to 10×10.")
 This is a visual representation of a 25×25 DEM that has been downsampled to 10×10.
 
 Resample the image to your desired row/column dimensions, cell size, or percentage of the original size. Resampling is usually done to generate a smaller image, but it can also be used to make a bigger (though lower quality) one.
