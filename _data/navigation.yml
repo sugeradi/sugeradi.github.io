@@ -15,8 +15,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "TalkMap"
-    url: /talkmap/
-
   - title: "Contact"
     url: /contact/
