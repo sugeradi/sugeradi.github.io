@@ -3,6 +3,7 @@ title: "Land Subsidence Risk Reducing"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-4-ASTCDRR
+conference: The 2nd Asian Science and Technology Conference for Disaster Risk Reduction
 venue: "Xinhai Jinjiang Hotel, Beijing, China"
 date: 2018-04-17
 location: "Beijing, China"
