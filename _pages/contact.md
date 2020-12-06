@@ -14,4 +14,5 @@ Contact information is below, including email and various web services.  This i
 * LinkedIn: 
 * University: [Capital Normal University](https://www.cnu.edu.cn/)
 [College of Resource Environment and Tourism](https://cret.cnu.edu.cn/)/[College of Geospatial Information Science and Technology](https://gist.cnu.edu.cn/)
+
 ![logo](https://cret.cnu.edu.cn/images/logo.jpg "College of Resource Environment and Tourism")
