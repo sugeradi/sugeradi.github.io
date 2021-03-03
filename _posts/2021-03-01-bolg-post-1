@@ -1,0 +1,25 @@
+---
+title: 'Github无法访问解决办法'
+date: 2021-03-01
+permalink: /posts/2021/03/blog-post-1/
+tags:
+  - github
+  - 访问
+  - hosts
+---
+
+### 1. 获取github.com可用的dns域名：
+利用站长工具可以获取目前可用的dns，拷贝第一个即可：
+[http://tool.chinaz.com/dns?type=1&host=www.github.com&ip=](http://tool.chinaz.com/dns?type=1&host=www.github.com&ip=)
+![](https://laji.o--o.xyz/i/2021/03/03/sm6f95.png)
+### 2. 在hosts文件中新起一行，加入拷贝的dns即可：
+例如 `52.74.223.119 www.github.com`
+
+>Windows系统hosts文件在“C:\Windows\System32\drivers\etc\”
+
+>如果是Windows 10专业版，文件名称为“lmhosts.sam”
+
+>windows键，输入`notepad`，出现记事本，右键选择“以管理员身份运行”，然后添加dns信息，并保存。
+![](https://laji.o--o.xyz/i/2021/03/03/sqt5pr.png)
+
+### 3. 重新访问https://github.com/
